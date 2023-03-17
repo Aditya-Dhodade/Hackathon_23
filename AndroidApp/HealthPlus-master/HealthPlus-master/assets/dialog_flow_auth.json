@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "healthplusbot-jlfj",
+  "private_key_id": "4767f258cb3791fb869d0954c1eae0e979da9973",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDcgekNsZ9/96bA\npNnjvqum0VG8tJ7QcZGkugYWhmBR+jGL4bL5S8ft70Y5ZJwPRiANRYvUNdD3K532\nYLiHlRI43XN+WqnogsndYdcB7baATdA23X+sEm7NsyxDGo3SHDNdFJ08rjyjBaE/\nmzzSjiuUHgvStcARWpU7aVqKslz/HkBIcMZADyTBTQZp+MWn7IxNbfh/7j15gDV1\nme1Izb9Q/75k85djrMRALO8pOmOX6INJJj7miIKuoGgm0qKrd5eFonEW8yKbzw/c\nye124h3uH6vQXE6w6hmShqUcWVRnaPviO/crZrr3hlTFMX3NnZtXWl39M7zz58Jb\nekROZSJZAgMBAAECggEABJixGRRPj54ZKhaiEBthDGVDf7GdfzW5gLSKNYDhlAIb\nAaA7WA+oqufRZUH8aQdRvbijEeAj+YhaAHvC/PT5Ue7Ms6DLE3SwQhesy5Lw1ted\nu2G3SM/0qccHIivYh9nq3C2E08dSA5fuj4zBaUKihiONT1FzPEXQxzV8cR95Ilit\nRt4EMEPnu/C0O80KgcuutsZ6bo/iSgLYDdW4M4OFpRA/Ovg82rGsUfGln+4xATpj\nPMnTWfQc+zk1y//f8/BquNMfG9VuPCNL1P0yOwTj7Ztgl1XxJvvbk50Ix7hPBemH\nOakjROIxuQOyVlulDT9UChlVSWNjbcPDhBnvG0LrXQKBgQD6bxsNxgsxHuBTd2ZP\nonN6RYyv7zF37igG4VrxEq5cnp8bDcjlSR4Rd6Hrm0v/NUeRkYMxHO1LpeUN8EP+\noja2qbsqKG0dKxsDC/HcVSseO/GuEsOxt3+sfd7UIic1fS1KyganM+IrCZ6ox/tZ\nfKa3SLtK04dNw6ZBoyC80OlskwKBgQDhaIgZHmd6e4Ksuz1Y/Daolp3ocidnzg1m\nW4d1PptuVJODJstId+fFHZWGucDTePWEXyJEhuP6NsYdABZX3UrfqyXmVBf83AA9\n0VakIfEpvtgmFXze7gZGHmO9WNq3/qOWAxb3w1tDhF2Z5+THLmRbqKwOwlsZKskP\negJaOrQ04wKBgBJZhb/ynOtSedljzElVe+Sfp/lUK2nAN4qZhJJZbhE3Ri0zS18R\nhnR9MY4T6POgMchGwzgcCH8cfrYQvsqvlBa6RQ6Hu8cBW49TlrswOmKSvdilY1Vo\nPqCi8GrWvcy7iVALkYU61f2VTNzNGmuqKIURfTe0XBuklFAG5eUv4YqlAoGAK74L\nW0SJND2vuDGF0DTxrnm8HxW4C+7yrsBoYxpJM3n6PmNS47dRJPF+yOxXPTKmApAr\nqDy9FRt4CryvmVF6bDlcW3xKQ2m2KkjrlWJ42G8OpyVYXDK4yPawyFfr6fTibgQf\neulQVqPjPjDANt8L3rW23g5de17QMc6tkjD+M50CgYBunMwdngtcn8uvcqYD6QEP\n+z8H0laaSyMCTlq+XJ1pAh155oqRt1lLLCGeEfJaZDaP2kNtgu5+hHY0gVpw16m6\nOL5ZP5m3D4xalIJH22eyPYgtjhd5GIaBpyaWUcuVrNbJ7+qjM7ibMshYkZFTrX5X\ny+tvmW1Y9QZPiH0S1CaWmw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "healthpluschatbot@healthplusbot-jlfj.iam.gserviceaccount.com",
+  "client_id": "105363449978931644748",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/healthpluschatbot%40healthplusbot-jlfj.iam.gserviceaccount.com"
+}
